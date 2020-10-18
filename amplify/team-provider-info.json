@@ -10,6 +10,11 @@
       "StackName": "amplify-productivityapp-anjali-175427",
       "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-anjali-175427/8161cdd0-0cd5-11eb-92a1-064e3a8b80d1",
       "AmplifyAppId": "dvfm333env39l"
+    },
+    "categories": {
+      "auth": {
+        "productivityapp8c17b623": {}
+      }
     }
   },
   "ankita": {
