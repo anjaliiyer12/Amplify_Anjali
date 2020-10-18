@@ -10,7 +10,7 @@ Amplify.configure(awsExports);
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <signOut>Sign Out</signOut>
+    <signOut></signOut>
   </React.StrictMode>,
   document.getElementById('root')
 );
