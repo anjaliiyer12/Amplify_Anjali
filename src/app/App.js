@@ -1,7 +1,6 @@
 /* src/App.js */
 import React from 'react'
 import ToDoHomePage from "./ToDoHomePage"
-import Background from "./1.jpeg"
 //import awsExports from "../aws-exports";
 //Amplify.configure(awsExports);
 
