@@ -1,72 +1,20 @@
 {
-  "anjali": {
+  "ankita": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-productivityapp-anjali-175427-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-anjali-175427-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-anjali-175427-authRole",
+      "AuthRoleName": "amplify-productivity-ankita-182935-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-authRole",
       "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivityapp-anjali-175427-deployment",
-      "UnauthRoleName": "amplify-productivityapp-anjali-175427-unauthRole",
-      "StackName": "amplify-productivityapp-anjali-175427",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-anjali-175427/8161cdd0-0cd5-11eb-92a1-064e3a8b80d1",
-      "AmplifyAppId": "dvfm333env39l"
+      "DeploymentBucketName": "amplify-productivity-ankita-182935-deployment",
+      "UnauthRoleName": "amplify-productivity-ankita-182935-unauthRole",
+      "StackName": "amplify-productivity-ankita-182935",
+      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivity-ankita-182935/a2da61f0-4206-11eb-a556-0a3e41809e43",
+      "AmplifyAppId": "d229r1s4nyz94s"
     },
     "categories": {
       "auth": {
-        "productivityapp8c17b623": {}
+        "productivity23b76657": {}
       }
-    }
-  },
-  "ankita": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-productivityapp-ankita-175539-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-ankita-175539-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-ankita-175539-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivityapp-ankita-175539-deployment",
-      "UnauthRoleName": "amplify-productivityapp-ankita-175539-unauthRole",
-      "StackName": "amplify-productivityapp-ankita-175539",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-ankita-175539/ac3899d0-0cd5-11eb-b216-0a582b86cc3c",
-      "AmplifyAppId": "dvfm333env39l"
-    }
-  },
-  "shraddha": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-productivityapp-shraddha-175822-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-shraddha-175822-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-shraddha-175822-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivityapp-shraddha-175822-deployment",
-      "UnauthRoleName": "amplify-productivityapp-shraddha-175822-unauthRole",
-      "StackName": "amplify-productivityapp-shraddha-175822",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-shraddha-175822/0e64bdf0-0cd6-11eb-9d04-064065852281",
-      "AmplifyAppId": "dvfm333env39l"
-    }
-  },
-  "aditi": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-productivityapp-aditi-175927-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-aditi-175927-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-aditi-175927-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivityapp-aditi-175927-deployment",
-      "UnauthRoleName": "amplify-productivityapp-aditi-175927-unauthRole",
-      "StackName": "amplify-productivityapp-aditi-175927",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-aditi-175927/33859820-0cd6-11eb-ae80-06ee5e9000d6",
-      "AmplifyAppId": "dvfm333env39l"
-    }
-  },
-  "master": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-productivityapp-master-180035-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-master-180035-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-master-180035-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivityapp-master-180035-deployment",
-      "UnauthRoleName": "amplify-productivityapp-master-180035-unauthRole",
-      "StackName": "amplify-productivityapp-master-180035",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-master-180035/5e33f490-0cd6-11eb-b42e-0a3f39052f60",
-      "AmplifyAppId": "dvfm333env39l"
     }
   }
 }

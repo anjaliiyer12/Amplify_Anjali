@@ -1,24 +1,6 @@
 {
-  "api": {
-    "ToDos": {
-      "service": "AppSync",
-      "providerPlugin": "awscloudformation",
-      "output": {
-        "authConfig": {
-          "defaultAuthentication": {
-            "authenticationType": "API_KEY",
-            "apiKeyConfig": {
-              "apiKeyExpirationDays": 7,
-              "description": "Key for ToDo "
-            }
-          },
-          "additionalAuthenticationProviders": []
-        }
-      }
-    }
-  },
   "auth": {
-    "productivityapp8c17b623": {
+    "productivity23b76657": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
