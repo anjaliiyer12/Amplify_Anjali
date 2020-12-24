@@ -12,8 +12,8 @@ const App = () => {
 
   return (
     <div>
-      <div><h2><b>Quarantine Productivity App</b></h2></div>
-      <div class="bg_image"><ToDoPage/></div>
+      <div class="bg_image" color="white"><h2><b>Quarantine Productivity App</b></h2></div>
+      <div class="bg_image" color="white"><ToDoPage/></div>
     </div>
     
   )

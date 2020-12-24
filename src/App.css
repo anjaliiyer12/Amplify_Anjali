@@ -37,7 +37,7 @@ html, body {
   }
 
   .bg_image{
-    background-image: url('./calender.jpg');
+    background-image: url('./sea.jpg');
     background-size: cover;
     height: 90vh;
   }
