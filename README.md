@@ -2,6 +2,8 @@ CPSC 454 - Cloud Computing & Security
 Fall 2020
 Group Members: Anjali Iyer, Ankita Kulkarni, Aditi Patil, Shraddha Yadav
 
+Live Demo: https://master.d1ppj4ez8arwgh.amplifyapp.com/
+
 To view this project on your local PC, follow these steps: 
 
 1. Download Zip File 
