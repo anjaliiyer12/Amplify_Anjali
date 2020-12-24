@@ -113,7 +113,7 @@ function ToDoPage() {
   return (
     <div>
       <Form addTask={addTask} />
-      <div>
+      <div style={{ color: 'white' }}>
         {filterList}
       </div>
       <h2 id="list-heading" tabIndex="-1" ref={listHeadingRef}>
