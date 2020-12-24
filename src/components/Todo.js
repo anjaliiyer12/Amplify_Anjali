@@ -80,6 +80,7 @@ export default function Todo(props) {
         </div>
         <div className="btn-group">
         <button
+          style={{ color: 'white' }}
           type="button"
           className="btn"
           onClick={() => setEditing(true)}
@@ -88,8 +89,9 @@ export default function Todo(props) {
             Edit <span className="visually-hidden">{props.name}</span>
           </button>
           <button
+            style={{ color: 'white' }}
             type="button"
-            className="btn btn__danger"
+            className="btn"
             onClick={() => props.deleteTask(props.id)}
           >
             Delete <span className="visually-hidden">{props.name}</span>
