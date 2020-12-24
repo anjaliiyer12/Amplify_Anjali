@@ -10,7 +10,7 @@ html, body {
       animation: gradient 8s ease infinite;
       text-align: center;
       color:rgb(0, 0, 0);
-      font: 2rem/1.25 'URW Chancery L', cursive;
+      font: 2rem/1.25 'URW Chancery L'
   }
 
   h2 {
