@@ -27,6 +27,11 @@ function Form(props) {
       </h2>
 
       <input
+        style={{ backgroundColor: 'rgba(255,255,255,0.4)',
+        borderRadius: 5,
+        width: 250,
+        height: 40,
+        padding: 5,}}
         type="text"
         id="new-todo-input"
         className="input input__lg"
