@@ -1,19 +1,19 @@
 {
-  "ankita": {
+  "anjprodapp": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-productivity-ankita-182935-authRole",
-      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-authRole",
+      "AuthRoleName": "amplify-productivityapp-anjprodapp-161038-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-anjprodapp-161038-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivityapp-anjprodapp-161038-authRole",
       "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-productivity-ankita-182935-deployment",
-      "UnauthRoleName": "amplify-productivity-ankita-182935-unauthRole",
-      "StackName": "amplify-productivity-ankita-182935",
-      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivity-ankita-182935/a2da61f0-4206-11eb-a556-0a3e41809e43",
-      "AmplifyAppId": "d229r1s4nyz94s"
+      "DeploymentBucketName": "amplify-productivityapp-anjprodapp-161038-deployment",
+      "UnauthRoleName": "amplify-productivityapp-anjprodapp-161038-unauthRole",
+      "StackName": "amplify-productivityapp-anjprodapp-161038",
+      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivityapp-anjprodapp-161038/0dbf2180-45e1-11eb-902f-06fe62e818a7",
+      "AmplifyAppId": "d1ppj4ez8arwgh"
     },
     "categories": {
       "auth": {
-        "productivity23b76657": {}
+        "productivityapp348d5da3": {}
       }
     }
   }
