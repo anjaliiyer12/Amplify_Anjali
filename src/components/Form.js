@@ -35,7 +35,7 @@ function Form(props) {
         value={name}
         onChange={handleChange}
       />
-      <button type="submit">
+      <button type="submit" className="btn btn__primary">
         Create
       </button>
     </form>
