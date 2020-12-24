@@ -6,6 +6,7 @@ html, body {
   body {
       background: linear-gradient(-45deg, #163244f5, #025766, #024969, #013463);
       background-size: 400% 400%;
+      background-image: url('./cloud.jpg');
       animation: gradient 8s ease infinite;
       text-align: center;
       color:rgb(0, 0, 0);
@@ -37,7 +38,6 @@ html, body {
   }
 
   .bg_image{
-    background-image: url('./cloud.jpg');
     background-size: cover;
     height: 150vh;
     color: 'white'
