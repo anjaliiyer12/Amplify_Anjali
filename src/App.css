@@ -40,9 +40,6 @@ html, body {
     background-image: url('./sea.jpg');
     background-size: cover;
     height: 90vh;
+    color: "white";
   }
 
-  .bag_image
-  {
-    background-image: url('./white.jpg');
-  }
