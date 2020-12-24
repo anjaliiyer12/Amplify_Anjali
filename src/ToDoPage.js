@@ -122,6 +122,7 @@ function ToDoPage() {
       <ul
         role="list"
         aria-labelledby="list-heading"
+        color="white"
       >
         {taskList}
       </ul>
