@@ -12,8 +12,7 @@ const App = () => {
 
   return (
     <div>
-      <div><h2 style={{ color: 'white' }}>Quarantine Productivity App</h2></div>
-      <div class="bg_image"><ToDoPage/></div>
+      <div class="bg_image"><ToDoPage/>Quarantine Productivity App</div>
     </div>
     
   )
