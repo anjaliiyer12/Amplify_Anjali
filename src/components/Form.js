@@ -20,8 +20,8 @@ function Form(props) {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2 className="label-wrapper">
-        <label style={{ color: 'white' }} htmlFor="new-todo-input" className="label__lg">
+      <h2>
+        <label style={{ color: 'white' }} htmlFor="new-todo-input">
           Add A To-Do Item
         </label>
       </h2>
