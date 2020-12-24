@@ -1,0 +1,20 @@
+{
+  "ankita": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-productivity-ankita-182935-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088802924051:role/amplify-productivity-ankita-182935-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-productivity-ankita-182935-deployment",
+      "UnauthRoleName": "amplify-productivity-ankita-182935-unauthRole",
+      "StackName": "amplify-productivity-ankita-182935",
+      "StackId": "arn:aws:cloudformation:us-west-2:088802924051:stack/amplify-productivity-ankita-182935/a2da61f0-4206-11eb-a556-0a3e41809e43",
+      "AmplifyAppId": "d229r1s4nyz94s"
+    },
+    "categories": {
+      "auth": {
+        "productivity23b76657": {}
+      }
+    }
+  }
+}

@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/* src/App.js */
+import { urlAlphabet } from 'nanoid'
+import React from 'react'
+import ToDoPage from "./ToDoPage"
+import "./App.css";
+//import awsExports from "../aws-exports";
+//Amplify.configure(awsExports);
 
-function App() {
+
+
+const App = () => {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div class="bag_image"><h2><b>Quarantine Productivity App</b></h2></div>
+      <div class="bg_image"><ToDoPage/></div>
     </div>
-  );
+    
+  )
 }
 
-export default App;
+export default App
