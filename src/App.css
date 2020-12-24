@@ -37,7 +37,7 @@ html, body {
   }
 
   .bg_image{
-    background-image: url('./sea.jpg');
+    background-image: url('./cloud.jpg');
     background-size: cover;
     height: 150vh;
     color: 'white'
