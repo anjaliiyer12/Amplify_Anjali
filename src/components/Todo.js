@@ -36,11 +36,11 @@ export default function Todo(props) {
     <form className="stack-small" onSubmit={handleSubmit}>
       <div className="form-group">
         <label className="todo-label" htmlFor={props.id}>
-          New name for {props.name}
+          Enter New To-Do Item For : {props.name}
         </label>
         <input
           id={props.id}
-          className="todo-text"
+          className="btn todo-cancel"
           type="text"
           value={newName}
           onChange={handleChange}
@@ -57,7 +57,7 @@ export default function Todo(props) {
           Cancel
           <span className="visually-hidden">renaming {props.name}</span>
         </button>
-        <button type="submit" className="btn btn__primary todo-edit">
+        <button type="submit" className="btn todo-cancel">
           Save
           <span className="visually-hidden">new name for {props.name}</span>
         </button>
@@ -96,6 +96,7 @@ export default function Todo(props) {
           >
             Delete <span className="visually-hidden">{props.name}</span>
           </button>
+          <br/>
         </div>
     </div>
   );
