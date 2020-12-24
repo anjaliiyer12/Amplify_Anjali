@@ -39,6 +39,6 @@ html, body {
   .bg_image{
     background-image: url('./sea.jpg');
     background-size: cover;
-    height: 90vh;
+    height: 150vh;
     color: 'white'
   }
